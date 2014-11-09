@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/akshay/Tools/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/akshay/CodeBase/HacKotlin/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-a2eba4c0326b51f6014dfab11c1949810e662d7e.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/CodeBase/HacKotlin/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/akshay/CodeBase/HacKotlin/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-bb84f670b807db719c82aa7dd0fc6662dbd3ce4d.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/0.9.206/cefd661a59864c35831d4fd4435b29ee875737db/kotlin-stdlib-0.9.206.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="cefd661a59864c35831d4fd4435b29ee875737db">
+        <dex dex="/Users/akshay/CodeBase/HacKotlin/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-0.9.206-79c65af8f942c532237eb33408c79a0fe0b571e8.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/CodeBase/HacKotlin/app/libs/firebase-client-android-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="5dd9b99445f950849cb411b747aa93be9cf11bce">
+        <dex dex="/Users/akshay/CodeBase/HacKotlin/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.0.0-091edf8382ece9bf74d3659a0047a16c455ac1d3.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/CodeBase/HacKotlin/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/akshay/CodeBase/HacKotlin/app/build/intermediates/pre-dexed/debug/classes-7efda2c97e0437b1e350024cdcde685a47d9b5e5.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/0.9.206/59682691054bee098c540018c1fbd05bbcad4ad4/kotlin-runtime-0.9.206.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="59682691054bee098c540018c1fbd05bbcad4ad4">
+        <dex dex="/Users/akshay/CodeBase/HacKotlin/app/build/intermediates/pre-dexed/debug/kotlin-runtime-0.9.206-6933bb7e82a33a46382341a4d39b2927b8a8407e.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/CodeBase/HacKotlin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="/Users/akshay/CodeBase/HacKotlin/app/build/intermediates/pre-dexed/debug/classes-5de5ea2b7b5c627914d9a6d6085e15f191a47418.jar" />
+    </item>
+
+</items>
